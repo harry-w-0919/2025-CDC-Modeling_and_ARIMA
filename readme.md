@@ -1,7 +1,7 @@
-# Graphing and modeling our data
+# Section 1. Graphing and modeling our data
 ### Please refer to "Modeling_Graphing.ipynb"
 
-# Predicting the Future Value of Real Value Added (RVA) for Manufacturing Category
+# Section 2. Predicting the Future Value of Real Value Added (RVA) for Manufacturing Category
 ### Model: Autoregressive Integrated Moving Average (ARIMA)
 
 ### 1. Python Environment Requirement
