@@ -73,7 +73,7 @@ Specifically, when predicting the RVA of year 2023, we have the model test-stati
 | 2022 | 38760.0 | 37998.93      | 0.0196              |
 | 2023 | 38773.0 | 38355.56      | 0.0108              |
 
-**Note: Relative Differences is calculated by (abs(actual - predicted)/predicted)** <br> <br>
+**Note: "Relative Differences" are calculated by (abs(actual - predicted)/predicted).** <br> <br>
 From the results above, we can see that the ARIMA model is able to predict relatively accurate results by calculating the relative differences
 with the actual RVA values. Therefore, we can conclude that the ARIMA model can provide numerical results that will be useful for investing advisor
 to offer reliable advice to investors. However, some really accurate predictions in our model may come from the limited dataset. <br> In the future, if we have
