@@ -1,4 +1,4 @@
-# Section 1. Graphing and modeling our data
+# Section 1. Graphing and modeling
 ### Please refer to "Modeling_Graphing.ipynb".
 
 # Section 2. Predicting the Future Value of Real Value Added (RVA) for Manufacturing Category
