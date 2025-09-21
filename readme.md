@@ -1,3 +1,6 @@
+# Graphing and modeling our data
+### Please refer to "Modeling_Graphing.ipynb"
+
 # Predicting the Future Value of Real Value Added (RVA) for Manufacturing Category
 ### Model: Autoregressive Integrated Moving Average (ARIMA)
 
